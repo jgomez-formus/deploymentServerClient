@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DeploymentServerClient:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DeploymentServerClient_jar</output-path>
+    <root id="archive" name="DeploymentServerClient.jar">
+      <element id="module-output" name="DeploymentServerClient" />
+    </root>
+  </artifact>
+</component>
